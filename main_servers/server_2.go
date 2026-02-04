@@ -1,3 +1,3 @@
 package mainservers
 
-// orders will be routed here
+// if server_1 is down, reverse proxy will direct requests to server_2
