@@ -1,0 +1,40 @@
+[
+  {
+    "id": "o_5001",
+    "user_id": "u_1001",
+    "status": "PAID",
+    "amount": 2499.5,
+    "currency": "INR",
+    "items": [
+      {
+        "product_id": "p_2001",
+        "name": "Mechanical Keyboard",
+        "quantity": 1,
+        "price": 1999.5
+      },
+      {
+        "product_id": "p_2002",
+        "name": "USB-C Cable",
+        "quantity": 1,
+        "price": 500.0
+      }
+    ],
+    "created_at": "2025-02-01T12:30:45Z"
+  },
+  {
+    "id": "o_5002",
+    "user_id": "u_1002",
+    "status": "PENDING",
+    "amount": 799.0,
+    "currency": "INR",
+    "items": [
+      {
+        "product_id": "p_2003",
+        "name": "Wireless Mouse",
+        "quantity": 1,
+        "price": 799.0
+      }
+    ],
+    "created_at": "2025-02-02T09:10:15Z"
+  }
+]
